@@ -37,7 +37,7 @@
   "dependencies": {
     "@audius/libs": "0.11.79",
     "@types/btoa": "^1.2.3",
-    "analytics-node": "^3.4.0-beta.1",
+    "analytics-node": "^3.5.0",
     "btoa": "^1.2.1",
     "eventemitter3": "^4.0.0",
     "lodash": "^4.17.15"
